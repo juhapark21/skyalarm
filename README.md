@@ -53,3 +53,6 @@ I also wanted this device. There are alert apps and telegram groups and RSS feed
 <img width="532" height="539" alt="Screenshot 2026-07-31 at 2 35 40 PM" src="https://github.com/user-attachments/assets/9f06400d-90c6-44ce-98d9-99742f0ec45c" />
 
 <img width="607" height="303" alt="Screenshot 2026-07-31 at 2 35 59 PM" src="https://github.com/user-attachments/assets/b01c22d9-6281-48fd-842c-129c669178f2" />
+
+<img width="1410" height="2000" alt="zine" src="https://github.com/user-attachments/assets/1f0031af-6447-4c77-ad7f-df633335c437" />
+
