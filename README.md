@@ -16,8 +16,6 @@ I also wanted this device. There are alert apps and telegram groups and RSS feed
   - Solar eclipses
   - Supermoons
   - ISS passes
-- Customizable alert audio 
-- Description page for details about alerted event 
 - Configurable notification settings 
 
 ## Usage 
@@ -39,7 +37,9 @@ I also wanted this device. There are alert apps and telegram groups and RSS feed
 - bom can be found as bom.csv 
 
 ## Upcoming features 
-- Weather checks - no alerts if overcast 
+- Weather checks - no alerts if overcast
+- Description page for details about alerted event 
+- Custom audio 
 - Switching from API calls to local calculations for more predictable events 
 - More cool space things!
 
