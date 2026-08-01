@@ -56,3 +56,7 @@ I also wanted this device. There are alert apps and telegram groups and RSS feed
 
 <img width="1410" height="2000" alt="zine" src="https://github.com/user-attachments/assets/1f0031af-6447-4c77-ad7f-df633335c437" />
 
+## Credits 
+Inspiration from [https://xkcd.com/2979/](https://xkcd.com/2979/) 
+Font from [https://github.com/ipython/xkcd-font](https://github.com/ipython/xkcd-font) 
+<img width="264" height="227" alt="Screenshot 2026-07-31 at 7 51 07 PM" src="https://github.com/user-attachments/assets/29e8c750-c40a-464b-afc5-70a1428c2aa7" />
