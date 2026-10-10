@@ -2,7 +2,8 @@
 The sky alarm from xkcd #2979! It tells you when cool space things are happening. 
 
 <img width="642" height="392" alt="skyalarm_cropped" src="https://github.com/user-attachments/assets/b0c12726-d240-4eca-b810-b1fe5009f9c6" />
-<img width="507" height="499" alt="Screenshot 2026-07-31 at 3 04 06 PM" src="https://github.com/user-attachments/assets/096757a7-9d08-4bc9-a55b-3b7e728e6caf" />
+<img width="558" height="530" alt="SS 2026-10-10 at 1 56 14 PM" src="https://github.com/user-attachments/assets/0cc05467-5621-480e-9ff6-c47808edeb64" />
+
 
 ## Why 
 <img width="664" height="605" alt="Sky Alarm" src="https://imgs.xkcd.com/comics/sky_alarm_2x.png" />
@@ -46,15 +47,16 @@ I also wanted this device. There are alert apps and telegram groups and RSS feed
 ## Images 
 <img width="1284" height="784" alt="skyalarm_cropped" src="https://github.com/user-attachments/assets/b0c12726-d240-4eca-b810-b1fe5009f9c6" />
 
-<img width="507" height="499" alt="Screenshot 2026-07-31 at 3 04 06 PM" src="https://github.com/user-attachments/assets/82a4bff8-f25e-4718-bbe2-3aa34a63140c" />
+<img width="558" height="530" alt="SS 2026-10-10 at 1 56 14 PM" src="https://github.com/user-attachments/assets/832735fd-bd39-4410-8ffe-481fa62378b7" />
+<img width="528" height="536" alt="SS 2026-10-10 at 1 57 04 PM" src="https://github.com/user-attachments/assets/7d4e4dd9-544d-42c8-a6ca-31db8c653091" />
+<img width="689" height="717" alt="SS 2026-10-10 at 1 57 40 PM" src="https://github.com/user-attachments/assets/46ea8e88-c944-40ae-b213-f3a2e58b16d7" />
 
-<img width="572" height="559" alt="Screenshot 2026-07-31 at 2 35 29 PM" src="https://github.com/user-attachments/assets/cbee3306-3d05-4486-9749-b59baf72543c" />
 
-<img width="532" height="539" alt="Screenshot 2026-07-31 at 2 35 40 PM" src="https://github.com/user-attachments/assets/9f06400d-90c6-44ce-98d9-99742f0ec45c" />
 
 <img width="607" height="303" alt="Screenshot 2026-07-31 at 2 35 59 PM" src="https://github.com/user-attachments/assets/b01c22d9-6281-48fd-842c-129c669178f2" />
 
-<img width="1410" height="2000" alt="zine" src="https://github.com/user-attachments/assets/1f0031af-6447-4c77-ad7f-df633335c437" />
+<img width="1409" height="2000" alt="NEW zine - skyalarm" src="https://github.com/user-attachments/assets/080a9e01-a821-4185-9e3c-daf91458945d" />
+
 
 ## Credits 
 Inspiration from [https://xkcd.com/2979/](https://xkcd.com/2979/) 
